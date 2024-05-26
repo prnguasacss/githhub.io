@@ -77,7 +77,13 @@ html {
     align-items: center;
 }
 
-.hs1-footer {
+.p-footer {
+    font-size: 18px;
+    color:whitesmoke;
+    text-align: center;
+}
+
+.h1-footer {
     font-size: 40px;
     color: whitesmoke;
 }
@@ -85,5 +91,10 @@ html {
 .h3-footer {
     font-size: 15px;
     color:whitesmoke;
+    text-align: center;
 }
 
+.img-content2 {
+    width: 50%;
+    height: 50%;
+}
